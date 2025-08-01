@@ -1,6 +1,7 @@
 import {
   BestSelling,
   CourseCategories,
+  FreeCourses,
   Hero,
   NewCourses,
   NextCourses
@@ -19,6 +20,7 @@ export default function Home () {
       <NewCourses />
       <NextCourses />
       <CourseCategories />
+      <FreeCourses />
       <div className='h-screen'>others</div>
     </>
   )
