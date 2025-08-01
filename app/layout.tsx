@@ -1,8 +1,8 @@
 import type React from 'react'
 import type { Metadata } from 'next'
 import { Almarai } from 'next/font/google'
+import 'swiper/css'
 import './globals.css'
-
 const almarai = Almarai({
   variable: '--font-almarai',
   subsets: ['arabic'],
