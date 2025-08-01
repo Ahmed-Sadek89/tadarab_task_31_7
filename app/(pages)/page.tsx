@@ -1,4 +1,4 @@
-import { BestSelling, Hero } from '@/components/sections'
+import { BestSelling, Hero, NewCourses } from '@/components/sections'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -10,6 +10,7 @@ export default function Home () {
     <>
       <Hero />
       <BestSelling />
+      <NewCourses />
       <div className='h-screen'>others</div>
     </>
   )
