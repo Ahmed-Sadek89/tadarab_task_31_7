@@ -1,3 +1,4 @@
+import { Hero } from '@/components/sections'
 import { Metadata } from 'next'
 
 export const metadata: Metadata = {
@@ -7,7 +8,8 @@ export const metadata: Metadata = {
 export default function Home () {
   return (
     <>
-      <h1 className='text-custom-red'>اخمد صادق</h1>
+      <Hero />
+      <div className='h-screen'>others</div>
     </>
   )
 }
