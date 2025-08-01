@@ -3,6 +3,7 @@
 @theme {
   --color-custom-black: #00040D;
   --color-custom-red: #BE1622;
+  --color-custom-gray: #191D25;
 }
 body {
   background-color: var(--color-custom-black);

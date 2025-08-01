@@ -1,8 +1,12 @@
-import React from 'react'
+import HeaderAdv from './header-adv'
+import MainHeader from './main-header'
 
 const Header = () => {
   return (
-    <header>Header</header>
+    <header className='top-0 fixed w-full'>
+      <HeaderAdv />
+      <MainHeader />
+    </header>
   )
 }
 
