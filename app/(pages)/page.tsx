@@ -2,6 +2,7 @@ import {
   BestSelling,
   Countdown,
   CourseCategories,
+  Discover,
   FreeCourses,
   Hero,
   NewCourses,
@@ -27,6 +28,7 @@ export default function Home () {
       <Testimonials />
       <Subscribe />
       <Countdown />
+      <Discover />
       <div className='h-screen'>others</div>
     </>
   )
