@@ -6,4 +6,5 @@ export { default as CourseCategories } from './course-categories/course-categori
 export { default as FreeCourses } from './free-courses/free-courses'
 export { default as Testimonials } from './testimonials/testimonials'
 export { default as Subscribe } from './subscribe/subscribe'
+export { default as Countdown } from './countdown/countdown'
 

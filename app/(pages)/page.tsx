@@ -1,5 +1,6 @@
 import {
   BestSelling,
+  Countdown,
   CourseCategories,
   FreeCourses,
   Hero,
@@ -25,6 +26,7 @@ export default function Home () {
       <FreeCourses />
       <Testimonials />
       <Subscribe />
+      <Countdown />
       <div className='h-screen'>others</div>
     </>
   )

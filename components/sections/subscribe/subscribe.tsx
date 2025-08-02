@@ -36,7 +36,9 @@ const Subscribe = () => {
               href={'#'}
               className='group flex justify-center items-center bg-[#60D2B4] hover:bg-custom-red mt-5 px-[10px] py-[16px] rounded-[12px] w-[295px] h-[50px] transition duration-300'
             >
-              <span className='font-bold text-custom-black group-hover:text-white transition duration-300'>أشترك الآن</span>
+              <span className='font-bold text-custom-black group-hover:text-white transition duration-300'>
+                أشترك الآن
+              </span>
             </Link>
           </div>
         </div>
