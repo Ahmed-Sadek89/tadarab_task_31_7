@@ -8,4 +8,6 @@ export { default as Testimonials } from './testimonials/testimonials'
 export { default as Subscribe } from './subscribe/subscribe'
 export { default as Countdown } from './countdown/countdown'
 export { default as Discover } from './discover/discover'
+export { default as Trainers } from './trainers/trainers'
+
 

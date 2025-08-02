@@ -8,7 +8,8 @@ import {
   NewCourses,
   NextCourses,
   Subscribe,
-  Testimonials
+  Testimonials,
+  Trainers
 } from '@/components/sections'
 import { Metadata } from 'next'
 
@@ -29,6 +30,7 @@ export default function Home () {
       <Subscribe />
       <Countdown />
       <Discover />
+      <Trainers />
       <div className='h-screen'>others</div>
     </>
   )
