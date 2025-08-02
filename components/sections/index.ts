@@ -4,4 +4,5 @@ export { default as NewCourses } from './new-courses/new-courses'
 export { default as NextCourses } from './next-courses/next-courses'
 export { default as CourseCategories } from './course-categories/course-categories'
 export { default as FreeCourses } from './free-courses/free-courses'
+export { default as Testimonials } from './testimonials/testimonials'
 

@@ -4,7 +4,8 @@ import {
   FreeCourses,
   Hero,
   NewCourses,
-  NextCourses
+  NextCourses,
+  Testimonials
 } from '@/components/sections'
 import { Metadata } from 'next'
 
@@ -21,6 +22,7 @@ export default function Home () {
       <NextCourses />
       <CourseCategories />
       <FreeCourses />
+      <Testimonials />
       <div className='h-screen'>others</div>
     </>
   )
