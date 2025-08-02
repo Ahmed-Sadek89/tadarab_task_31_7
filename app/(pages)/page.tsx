@@ -1,5 +1,6 @@
 import {
   BestSelling,
+  Contact,
   Countdown,
   CourseCategories,
   Discover,
@@ -31,6 +32,7 @@ export default function Home () {
       <Countdown />
       <Discover />
       <Trainers />
+      <Contact />
       <div className='h-screen'>others</div>
     </>
   )
