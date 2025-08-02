@@ -35,7 +35,6 @@ export default function Home () {
       <Trainers />
       <Contact />
       <FAQ />
-      <div className='h-screen'>others</div>
     </>
   )
 }
