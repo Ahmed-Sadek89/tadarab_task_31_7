@@ -10,5 +10,6 @@ export { default as Countdown } from './countdown/countdown'
 export { default as Discover } from './discover/discover'
 export { default as Trainers } from './trainers/trainers'
 export { default as Contact } from './contact/contact'
+export { default as FAQ } from './faq/faq'
 
 

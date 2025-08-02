@@ -4,6 +4,7 @@ import {
   Countdown,
   CourseCategories,
   Discover,
+  FAQ,
   FreeCourses,
   Hero,
   NewCourses,
@@ -33,6 +34,7 @@ export default function Home () {
       <Discover />
       <Trainers />
       <Contact />
+      <FAQ />
       <div className='h-screen'>others</div>
     </>
   )
